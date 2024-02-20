@@ -17,10 +17,7 @@
 
 ## 📊 Recent Projects
 - [Credit Card Data Analysis Project](https://github.com/AfreenDataAnalyst/Py_Data_Explorer/blob/main/Credit%20Card%20Data%20Analysis%20Project%201.pdf)
-
-## 📈 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide_border=true)
-
+-[Employee Performance dashboard][https://github.com/AfreenDataAnalyst/PowerBI_EmployeeInsights/blob/main/EMP.pbix]
 ## 📫 Let's Connect
 - LinkedIn: Mohammad Afreen
 Feel free to explore my repositories and reach out for collaboration or discussions!
