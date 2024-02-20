@@ -11,7 +11,7 @@
 - SQL
 - Data Visualization (Matplotlib, Seaborn,plotly)
 - Data Analysis Libraries (Pandas, NumPy)
-  
+- Excel 
 ## Data Visualization
 **Power BI** : Proficient in creating interactive & insightful dashboards
 
