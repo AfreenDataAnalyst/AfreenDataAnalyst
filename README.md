@@ -7,7 +7,8 @@
 - Developing and implementing data-driven strategies
 
 ## 🛠 Tools & Technologies
-- Python
+- Python ![image](https://github.com/AfreenDataAnalyst/AfreenDataAnalyst/assets/160504689/832c86bc-fee4-40db-96ce-87e8aca7fb55)
+
 - SQL
 - Data Visualization (Matplotlib, Seaborn,plotly)
 - Data Analysis Libraries (Pandas, NumPy)
