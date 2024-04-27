@@ -7,12 +7,16 @@
 - Developing and implementing data-driven strategies
 
 ## 🛠 Tools & Technologies
-- Python ![image](https://github.com/AfreenDataAnalyst/AfreenDataAnalyst/assets/160504689/832c86bc-fee4-40db-96ce-87e8aca7fb55)
+- Python ![image](https://github.com/AfreenDataAnalyst/AfreenDataAnalyst/assets/160504689/ae1b4604-f147-41ca-abc7-6f0c34e884d1)
 
-- SQL
-- Data Visualization (Matplotlib, Seaborn,plotly)
+
+- SQL![image](https://github.com/AfreenDataAnalyst/AfreenDataAnalyst/assets/160504689/e6a0d208-7be5-49d0-a57f-0b5f13ed38a1)
+
+- Data Visualization (Matplotlib, Seaborn,plotly)![image](https://github.com/AfreenDataAnalyst/AfreenDataAnalyst/assets/160504689/0d85d5b8-b6c5-4841-a3cc-4acde47f40ed)
+
 - Data Analysis Libraries (Pandas, NumPy)
-- Excel 
+- Excel ![image](https://github.com/AfreenDataAnalyst/AfreenDataAnalyst/assets/160504689/ddbb0d3f-4890-48c7-9f91-ad0c6359bab3)
+
 ## Data Visualization
 **Power BI** : Proficient in creating interactive & insightful dashboards
 
